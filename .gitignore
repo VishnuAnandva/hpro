@@ -5,6 +5,9 @@ yarn-error.log
 
 #dev
 
+#production
+
+
 # Laravel 4 specific
 bootstrap/compiled.php
 app/storage/
